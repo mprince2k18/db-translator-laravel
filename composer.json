@@ -1,19 +1,19 @@
 {
-    "name": "bernardomacedo/laravel-db-translator",
-    "description": "Laravel 5.6 database translation extension",
+    "name": "mprince/laravel-db-translator",
+    "description": "Laravel 8 database translation extension",
     "keywords": [
-        "bernardomacedo",
+        "mprince",
         "laravel-db-translator",
         "laravel",
         "translation"
     ],
-    "homepage": "https://github.com/bernardomacedo/laravel-db-translator",
+    "homepage": "https://github.com/mprince2k18/db-translator-laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Bernardo Sousa de Macedo",
-            "email": "bernardo.macedo@gmail.com",
-            "role": "Developer"
+            "name": "Mohammad Prince",
+            "email": "mprince2k16@gmail.com",
+            "role": "Software Developer"
         }
     ],
     "require": {
@@ -51,8 +51,8 @@
         }
     },
     "support": {
-        "issues": "https://github.com/bernardomacedo/laravel-db-translator/issues",
-        "source": "https://github.com/bernardomacedo/laravel-db-translator"
+        "issues": "https://github.com/mprince2k18/db-translator-laravel/issues",
+        "source": "https://github.com/mprince2k18/db-translator-laravel/laravel-db-translator"
     },
     "scripts": {
         "test": "vendor/bin/phpunit"
